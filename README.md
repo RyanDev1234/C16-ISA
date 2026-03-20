@@ -81,3 +81,8 @@ The ISA uses a clean **4‑bit opcode space** (0000–1111).
 ## ✅ Purpose
 C16 is designed as a **minimal yet complete ISA** for learning, experimentation, and bare‑metal C programming.  
 Its simplicity makes it ideal for teaching computer architecture, building emulators, or experimenting with compiler backends.
+
+## 🙌 Credits
+C16 ISA was created by RyanDev1234.  
+Please retain attribution when modifying or redistributing.
+
