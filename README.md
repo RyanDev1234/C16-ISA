@@ -1,4 +1,4 @@
-# C16-ISA  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# C16-ISA
 # ⚡ C16 — Compact 16 Instruction Set Architecture
 
 **C16 — Compact 16 Instruction Set Architecture** is a minimal ISA with exactly **16 instructions**.  
@@ -81,8 +81,3 @@ The ISA uses a clean **4‑bit opcode space** (0000–1111).
 ## ✅ Purpose
 C16 is designed as a **minimal yet complete ISA** for learning, experimentation, and bare‑metal C programming.  
 Its simplicity makes it ideal for teaching computer architecture, building emulators, or experimenting with compiler backends.
-
-## 🙌 Credits
-C16 ISA was created by RyanDev1234.  
-Please retain attribution when modifying or redistributing.
-
