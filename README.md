@@ -1,4 +1,4 @@
-# C16-ISA
+# C16-ISA  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # ⚡ C16 — Compact 16 Instruction Set Architecture
 
 **C16 — Compact 16 Instruction Set Architecture** is a minimal ISA with exactly **16 instructions**.  
