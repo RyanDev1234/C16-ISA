@@ -71,7 +71,7 @@ The ISA uses a clean **4‑bit opcode space** (0000–1111).
 
 ## 📜 Encoding Notes
 - **Opcode field**: 4 bits (selects one of 16 instructions)  
-- **Register fields**: 4 bits each (up to 16 registers)  
+- **Register fields**: 6 bits each (up to 64 registers)  
 - **Immediate/addr fields**: variable length depending on instruction format  
 - **Instruction word size**: typically 16 bits for compactness  
 
